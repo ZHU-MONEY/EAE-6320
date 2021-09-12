@@ -1,6 +1,6 @@
 Download: https://github.com/ZHU-MONEY/EAE-6320/archive/refs/heads/Assignment_03_file.zip
 
-![](game running.PNG)
+![](gamerunning.PNG)
 
 In order to make the Graphics platform independent I had to add a View class for both D3D and GL and remove the Graphics.gl.cpp and Graphics.d3d.cpp, everything that was handled by the platform specific code in Graphics.cpp is now processed by the View class
 The view class takes care of swap and clear buffer, since the GL doesn’t need to explicitly init and clean up a view object, the init and cleanup for GL just returns a Results::Success without doing anything else
