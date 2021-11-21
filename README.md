@@ -6,6 +6,8 @@ The Goal is to reach the donut without getting hit by car and not bumping into w
 
 Systems I used: My XBOX controller input system and Josh Butner’s Collision system
 
+Josh Butner’s Collision system: https://www.dropbox.com/s/5s3ar7f4elxb1yv/EAE%206320%20Engine%20System%20Final%20Writeup.pdf?dl=0
+
 ![](Capture.PNG)
 
 The game is just a simplified frogger, the goal is to move Homer to the other side and pickup the donut while not touching the “red parts”. I chose to make this game because, it is very simple to make and can be done in a very short time while still being able to showcase the systems I and the other person built.
